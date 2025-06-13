@@ -1,0 +1,3 @@
+nickname=hej
+coins=52
+trophies=54

@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\1">
+      <UniqueIdentifier>{df28e720-6edd-44f7-9e31-c3099636e36d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\1_h">
+      <UniqueIdentifier>{d5c0eaaa-29c4-4085-bea0-205ce10ee441}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\2">
+      <UniqueIdentifier>{5116e0b6-4d05-4396-8722-6de5f2709efc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\2_h">
+      <UniqueIdentifier>{d69084c4-45dd-4458-aa8d-0cc11fd49aba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Units">
+      <UniqueIdentifier>{89775051-d52e-404e-a0b0-4d5e8f142371}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Units_h">
+      <UniqueIdentifier>{75ce8bd5-85b1-45ba-905b-9a1fd017c613}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\1_h\Profile_h">
+      <UniqueIdentifier>{e0cede62-3c2a-47e6-a6db-2621027ac0b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\1_h\StartMenu_h">
+      <UniqueIdentifier>{1ee89a9e-5839-4737-9e5f-b7bb27fd74ed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\1_h\Login/Setting/Load_h">
+      <UniqueIdentifier>{5ffc6438-ea33-4e72-880b-e94faa0bd112}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\1\StartMenu">
+      <UniqueIdentifier>{3ca98c78-6a7a-409a-a0be-ff6a34ead5e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\1\Login/Setting/Load">
+      <UniqueIdentifier>{016b9dc1-34d6-440f-be8c-40436c787bdc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\1\Profile">
+      <UniqueIdentifier>{f2cd4e30-58b7-4fe0-880b-11a18fdd3c79}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\3">
+      <UniqueIdentifier>{5755e1ec-c529-4e91-b08d-4ba61b9ed4be}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{e64fc353-b31b-43f4-84c0-2ff6d156d5cd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Game_h">
+      <UniqueIdentifier>{5019923d-c405-4ed3-b884-21a68eb1302e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\2_h\3_h">
+      <UniqueIdentifier>{77a99c61-63ac-4e04-bdd8-544fdaa314fb}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\1</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowDeck.cpp">
+      <Filter>Source Files\2</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Source Files\1\StartMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuButton.cpp">
+      <Filter>Source Files\1\StartMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="Setting.cpp">
+      <Filter>Source Files\1\Login/Setting/Load</Filter>
+    </ClCompile>
+    <ClCompile Include="LoginScreen.cpp">
+      <Filter>Source Files\1\Login/Setting/Load</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadingScreen.cpp">
+      <Filter>Source Files\1\Login/Setting/Load</Filter>
+    </ClCompile>
+    <ClCompile Include="ManagerProfile.cpp">
+      <Filter>Source Files\1\Profile</Filter>
+    </ClCompile>
+    <ClCompile Include="UserProfile.cpp">
+      <Filter>Source Files\1\Profile</Filter>
+    </ClCompile>
+    <ClCompile Include="CardUnit.cpp">
+      <Filter>Source Files\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="CardFactory.cpp">
+      <Filter>Source Files\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="CardManager.cpp">
+      <Filter>Source Files\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="UserUnitManager.cpp">
+      <Filter>Source Files\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="DeckBuilder.cpp">
+      <Filter>Source Files\Units</Filter>
+    </ClCompile>
+    <ClCompile Include="BattleResultWindow.cpp">
+      <Filter>Source Files\1\Login/Setting/Load</Filter>
+    </ClCompile>
+    <ClCompile Include="WindowShop.cpp">
+      <Filter>Source Files\3</Filter>
+    </ClCompile>
+    <ClCompile Include="CardSystem.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Resources.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="UnitLoader.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Utils.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Game_k.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="WindowDeck.h">
+      <Filter>Header Files\2_h</Filter>
+    </ClInclude>
+    <ClInclude Include="UserProfile.h">
+      <Filter>Header Files\1_h\Profile_h</Filter>
+    </ClInclude>
+    <ClInclude Include="Setting.h">
+      <Filter>Header Files\1_h\Login/Setting/Load_h</Filter>
+    </ClInclude>
+    <ClInclude Include="LoginScreen.h">
+      <Filter>Header Files\1_h\Login/Setting/Load_h</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadingScreen.h">
+      <Filter>Header Files\1_h\Login/Setting/Load_h</Filter>
+    </ClInclude>
+    <ClInclude Include="ManagerProfile.h">
+      <Filter>Header Files\1_h\Profile_h</Filter>
+    </ClInclude>
+    <ClInclude Include="MenuButton.h">
+      <Filter>Header Files\1_h\StartMenu_h</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Header Files\1_h\StartMenu_h</Filter>
+    </ClInclude>
+    <ClInclude Include="CardUnit.h">
+      <Filter>Header Files\Units_h</Filter>
+    </ClInclude>
+    <ClInclude Include="CardFactory.h">
+      <Filter>Header Files\Units_h</Filter>
+    </ClInclude>
+    <ClInclude Include="CardManager.h">
+      <Filter>Header Files\Units_h</Filter>
+    </ClInclude>
+    <ClInclude Include="UserUnitManager.h">
+      <Filter>Header Files\Units_h</Filter>
+    </ClInclude>
+    <ClInclude Include="DeckBuilder.h">
+      <Filter>Header Files\Units_h</Filter>
+    </ClInclude>
+    <ClInclude Include="BattleResultWindow.h">
+      <Filter>Header Files\1_h\Login/Setting/Load_h</Filter>
+    </ClInclude>
+    <ClInclude Include="WindowShop.h">
+      <Filter>Header Files\2_h\3_h</Filter>
+    </ClInclude>
+    <ClInclude Include="Game_k.h">
+      <Filter>Header Files\Game_h</Filter>
+    </ClInclude>
+    <ClInclude Include="CardSystem.h">
+      <Filter>Header Files\Game_h</Filter>
+    </ClInclude>
+    <ClInclude Include="Resources.h">
+      <Filter>Header Files\Game_h</Filter>
+    </ClInclude>
+    <ClInclude Include="UnitLoader.h">
+      <Filter>Header Files\Game_h</Filter>
+    </ClInclude>
+    <ClInclude Include="Utils.h">
+      <Filter>Header Files\Game_h</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObjects.h">
+      <Filter>Header Files\Game_h</Filter>
+    </ClInclude>
+    <ClInclude Include="Constants.h">
+      <Filter>Header Files\Game_h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

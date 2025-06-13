@@ -1,0 +1,10 @@
+# Формат: имя, здоровье, скорость, радиус, цвет_R, цвет_G, цвет_B, урон, кулдаун_атаки, атак_рендж, зона_агра, мана_затраты
+Giant     650 0.25 25 150  0   0   25 2.0 35  0   7 units/textures/giant.png units/splasharts/giant.jpg       
+Archer    130 0.65 20   0  100 0  32 2.5 145 150 4 units/textures/archer.png units/splasharts/archer.jpg       
+MiniPekka 210 0.6  20   0  150 140  55 3.0 35  80 3 units/textures/miniPekka.png units/splasharts/minipekka.jpg  
+Berserker 110 0.9 15 255 128  0    35 2.0 30  80 2 units/textures/berserker.png units/splasharts/berserker.jpg        
+Mage      155 0.5 20 128 0 128 52 3.0 135 150 5 units/textures/mage.png units/splasharts/mage.jpg   
+Assassin   95 1.1 20   50  50  50  85 2.0 30  80 4 units/textures/assasin.png units/splasharts/assasin.jpg      
+Cannon    520 0    30 100   0 200  28 1.8 125 150 6 units/textures/cannon.png units/splasharts/cannon.jpg       
+Inferno   520 0    30 100   0 0    0.2 0.01 125 150 5 units/textures/inferno.png units/splasharts/inferno.jpg  
+ 

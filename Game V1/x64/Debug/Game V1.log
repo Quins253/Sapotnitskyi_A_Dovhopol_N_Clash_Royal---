@@ -1,0 +1,49 @@
+﻿  BattleResultWindow.cpp
+  CardFactory.cpp
+C:\Users\mi_na\Desktop\Game V1\BattleResultWindow.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "BattleResultWindow.cpp")
+  
+  CardUnit.cpp
+  Game_k.cpp
+C:\Users\mi_na\Desktop\Game V1\Game_k.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  LoginScreen.cpp
+C:\Users\mi_na\Desktop\Game V1\LoginScreen.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "LoginScreen.cpp")
+  
+  main.cpp
+C:\Users\mi_na\Desktop\Game V1\main.cpp(1,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  LoadingScreen.cpp
+C:\Users\mi_na\Desktop\Game V1\LoadingScreen.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "LoadingScreen.cpp")
+  
+  MainMenu.cpp
+C:\Users\mi_na\Desktop\Game V1\MenuButton.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "MainMenu.cpp")
+  
+  ManagerProfile.cpp
+  Resources.cpp
+C:\Users\mi_na\Desktop\Game V1\Resources.h(3,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Resources.cpp")
+  
+  Setting.cpp
+C:\Users\mi_na\Desktop\Game V1\Setting.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "Setting.cpp")
+  
+  UnitLoader.cpp
+C:\Users\mi_na\Desktop\Game V1\UnitLoader.h(5,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "UnitLoader.cpp")
+  
+  UserProfile.cpp
+C:\Users\mi_na\Desktop\Game V1\UserProfile.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "UserProfile.cpp")
+  
+  UserUnitManager.cpp
+  WindowDeck.cpp
+C:\Users\mi_na\Desktop\Game V1\WindowDeck.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "WindowDeck.cpp")
+  
+  WindowShop.cpp
+C:\Users\mi_na\Desktop\Game V1\WindowShop.h(2,10): error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  (компиляция исходного файла "WindowShop.cpp")
+  
+  Создание кода...

@@ -1,0 +1,16 @@
+Gigant 650 0.25 150 1 7 assets/Units_img/GigantCard.png
+Knight 320 0.5 150 1 3 assets/Units_img/KnithCard.png
+Archer 130 0.65 200 1 4 assets/Units_img/BowmanCard.png
+PEKKA 210 0.6 150 1 3 assets/Units_img/MiniPEKKACard.png
+Berserker 110 0.9 128 1 2 assets/Units_img/BerserkCard.png
+Wizard 155 0.5 0 1 5 assets/Units_img/WizardCard.png
+Assassin 95 1.1 50 1 4 assets/Units_img/KillerCard.png
+Cannon 520 0.0 0 1 6 assets/Units_img/CanonCard.png
+Inferno 520 0.0 0 1 5 assets/Units_img/InfernoCard.png
+Goblin 100 0.85 255 1 2 assets/Units_img/GoblinCard.png
+Crossbowman 140 0.55 80 1 4 assets/Units_img/Arbaletnik.png
+Peasant_with_Pitchfork 160 0.6 130 1 3 assets/Units_img/Peasant_with_Pitchfork.png
+Armored_Goblin 220 0.45 200 1 3 assets/Units_img/Armored_Goblin.png
+Dark_Knight 340 0.45 30 1 4 assets/Units_img/Dark_Knight.png
+Forestryman_Barbarian 180 0.7 180 1 3 assets/Units_img/Forestryman_Barbarian.png
+Staff_Monk 250 0.5 180 1 4 assets/Units_img/Staff_Monk.png

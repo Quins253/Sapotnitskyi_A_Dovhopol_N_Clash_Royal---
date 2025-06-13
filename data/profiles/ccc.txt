@@ -1,0 +1,3 @@
+coins=36
+nickname=ccc
+trophies=0
